@@ -35,5 +35,10 @@ shown below
 Design a Single Phase Inverter having the DC input supply of 100V and output resistance 1 ohm using pulse generator.
 
 ## Simulation
+<img width="699" height="620" alt="image" src="https://github.com/user-attachments/assets/4a030a91-0500-44cb-afa7-469f6212f056" />
+
 ## Output
+<img width="1008" height="470" alt="image" src="https://github.com/user-attachments/assets/fbd139c1-cf5c-4d5c-80d1-ae34624baa8b" />
+
 ## Result
+thus the Simulation-of-single-phase-inverter in MATLAB Simulink was studied and verified
